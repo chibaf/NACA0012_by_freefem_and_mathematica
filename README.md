@@ -7,3 +7,7 @@
 <img width="324" alt="pressure_part" src="https://github.com/chibaf/NACA0012_by_freefem_and_mathematica/assets/1296728/a3b7b74f-f2be-416d-90de-e37ad074d91a">
 
 <img width="360" alt="pressure_all" src="https://github.com/chibaf/NACA0012_by_freefem_and_mathematica/assets/1296728/6bddabf4-a978-4153-85bb-88ee95b8f0af">
+
+## references
+
+freefem org https://freefem.org
